@@ -29,8 +29,6 @@ import { MdDeleteOutline } from "react-icons/md";
 import { TbBulbFilled } from "react-icons/tb";
 
 import Badge from "react-bootstrap/Badge";
-
-import { grey } from "@mui/material/colors";
 import { Button } from "react-bootstrap";
 import { useState } from "react";
 
@@ -111,6 +109,7 @@ function App() {
                   width={50}
                   height={50}
                   style={{ borderRadius: "5px" }}
+                  alt="shivank"
                 />
                 <div className="container1-name">
                   <h6 style={{ fontSize: "15px", fontWeight: "900" }}>
@@ -188,6 +187,7 @@ function App() {
                 width={70}
                 height={70}
                 style={{ borderRadius: "5px" }}
+                alt="shivank"
               />
               <div style={{ marginLeft: "10px" }}>
                 <h6 style={{ fontSize: "15px", fontWeight: "900" }}>
@@ -226,6 +226,7 @@ function App() {
                 width={70}
                 height={70}
                 style={{ borderRadius: "5px" }}
+                alt="shivank"
               />
               <div style={{ marginLeft: "10px" }}>
                 <h6 style={{ fontSize: "15px", fontWeight: "900" }}>
@@ -269,6 +270,7 @@ function App() {
                         width={30}
                         height={30}
                         style={{ borderRadius: "20px" }}
+                        alt="shivank"
                       />
                       <p>
                         <h6
@@ -291,6 +293,7 @@ function App() {
                         width={30}
                         height={30}
                         style={{ borderRadius: "20px" }}
+                        alt="shivank"
                       />
                       <p>
                         <h6
@@ -313,6 +316,7 @@ function App() {
                         width={30}
                         height={30}
                         style={{ borderRadius: "20px" }}
+                        alt="shivank"
                       />
                       <p>
                         <h6
